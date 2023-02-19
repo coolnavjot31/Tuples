@@ -1,0 +1,15 @@
+E:\PracticeProjects\TuplesPractice\bin\Debug\net6.0\TuplesPractice.exe
+E:\PracticeProjects\TuplesPractice\bin\Debug\net6.0\TuplesPractice.deps.json
+E:\PracticeProjects\TuplesPractice\bin\Debug\net6.0\TuplesPractice.runtimeconfig.json
+E:\PracticeProjects\TuplesPractice\bin\Debug\net6.0\TuplesPractice.dll
+E:\PracticeProjects\TuplesPractice\bin\Debug\net6.0\TuplesPractice.pdb
+E:\PracticeProjects\TuplesPractice\obj\Debug\net6.0\TuplesPractice.csproj.AssemblyReference.cache
+E:\PracticeProjects\TuplesPractice\obj\Debug\net6.0\TuplesPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\PracticeProjects\TuplesPractice\obj\Debug\net6.0\TuplesPractice.AssemblyInfoInputs.cache
+E:\PracticeProjects\TuplesPractice\obj\Debug\net6.0\TuplesPractice.AssemblyInfo.cs
+E:\PracticeProjects\TuplesPractice\obj\Debug\net6.0\TuplesPractice.csproj.CoreCompileInputs.cache
+E:\PracticeProjects\TuplesPractice\obj\Debug\net6.0\TuplesPractice.dll
+E:\PracticeProjects\TuplesPractice\obj\Debug\net6.0\refint\TuplesPractice.dll
+E:\PracticeProjects\TuplesPractice\obj\Debug\net6.0\TuplesPractice.pdb
+E:\PracticeProjects\TuplesPractice\obj\Debug\net6.0\TuplesPractice.genruntimeconfig.cache
+E:\PracticeProjects\TuplesPractice\obj\Debug\net6.0\ref\TuplesPractice.dll
